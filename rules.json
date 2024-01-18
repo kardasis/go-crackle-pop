@@ -1,0 +1,12 @@
+[
+  {
+    "divisor": 13,
+    "word": "Chugga",
+    "remainders": [0]
+  },
+  {
+    "divisor": 6,
+    "word": "Choo",
+    "remainders": [ 1, 5 ]
+  }
+]
